@@ -1,18 +1,18 @@
 # PROJECT IDEA
 
-A short description
+A short description.
 
 ## Introduction
 
-A small introduction
+A small introduction.
 
 ## Why ?
 
-Here you need to explain, wha is the need of this project.
+Here you need to explain, what is the need of this project.
 
 ## Description
 
-A nice description here
+A nice description here.
 
 ## labels
 
