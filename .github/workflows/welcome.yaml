@@ -11,5 +11,5 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
-          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="http://discord.eddiehub.org">Discord</a> chat and our <a href="http://github.eddiehub.org">GitHub Organisation</a> - we help and encourage each other to contribute to open source, little and often 🤓 . Any questions let us know.'
+          issue-message: '<h3>It''s great having you contribute to this project</h3> Welcome to the community :nerd_face:, we will carefully review your project idea and get back to you.'
+          footer: 'If you would like to follow our community''s work you should join us on our <a href="https://t.me/joinchat/UpKZh_KXTaTx7JD7">Telegram</a> chat group and <a href="https://t.me/osscameroonchannel">Channel</a>, we help and encourage each other to contribute to open source.<br/>You can also support us financially  <a href="https://opencollective.com/osscameroon/donate">here</a> to help us build Cameroon one open source at a time.'
