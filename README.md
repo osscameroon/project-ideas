@@ -34,16 +34,16 @@ Drop a comment on the issue to let the community know what you intend yo do with
 
 ## How to build a project (recommendations)
 
-Building open source solutions can be quite challenging, thus we will try share few recommendations that might help you bring a project to fruition.
+Building open source solutions can be quite challenging, thus we will try to share few recommendations that might help you bring a project to fruition.
 
 #### The team
 It is important to keep the team working on the initial phase of the project small.
 Depending on the complexity of the project the team should be composed of 1 to 3 people.
 
-* For a project that is very simple and do not require any complex mobile or web user interface a single developer is enough.
+* For a project that is very simple, meaning that it is not composed of several components, an api + mobile or web user interface, a single developer is enough.
 
-* If your project require a frontend and a backend, you can add an additional developer and split the work between frontend and backend to avoid the friction.
-The team might require a designer, in which case he will be the 3rd member of that very effective team.
+* If your project require sevral components or services such as a typical, frontend + backend app, you can add an additional developer and split the work between frontend and backend to avoid the friction.
+The team may also require a designer, in which case he will be the 3rd member of that small and effective team.
 
 * It might be possible to have teams of 4 to 5 members, we do not recommend to have teams of more than 3 people but if you insist make
  sure you have at least a person doing the important project management work.
