@@ -24,7 +24,6 @@ body:
     id: complexity
     attributes:
       label: Complexity
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: Beginner - This project requires no or little prior knowledge of the technolog(y|ies) specified to contribute to the project
         - label: Intermediate - The user should have some prior knowledge of the technolog(y|ies) to the point where they know how to use it, but not necessarily all the nooks and crannies of the technology
