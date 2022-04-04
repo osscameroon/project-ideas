@@ -1,5 +1,5 @@
 ---
-name: Project idea template
+name: Project idea template old
 about: For creating a new project(as an issue) following the design
 title: ''
 labels: ''
