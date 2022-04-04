@@ -36,7 +36,7 @@ body:
     attributes:
       value: |
       ## Complexity and required time
-      <!--[Please only tick off one box in each category by changing `[ ]` to `[x]`. The labels on the project will then be updated by the maintainers as soon as possible.-->
+      Please only tick off one box in each category by changing `[ ]` to `[x]`. The labels on the project will then be updated by the maintainers as soon as possible.
   - type: checkboxes
     id: complexity
     attributes:
