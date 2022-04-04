@@ -2,16 +2,10 @@ name: Project idea template
 description: For creating a new project(as an issue) following the design
 title: "Project Idea"
 body:
-  - type: textarea
-    attributes:
-      label: Project description
-      description: A short description here, describing the idea.
-    validations:
-      required: true
-  - type: textarea
+  - type: input
     attributes:
       label: Introduction
-      description: A small introduction
+      description: Explain in one line what the project is about
     validations:
       required: true
   - type: textarea
@@ -43,30 +37,26 @@ body:
       label: Complexity
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: Beginner - This project requires no or little prior knowledge of the technolog(y|ies) specified to contribute to the project
-        - label: Intermediate - The user should have some prior knowledge of the technolog(y|ies) to the point where they know how to use it, but not necessarily all the nooks and crannies of the technology
-        - label: Advanced - The project requires the user to have a good understanding of all components of the project to contribute
-#
-# ### Required time (ETA)
-#
-# - [ ] Little work - A couple of days
-# - [ ] Medium work - A week or two
-# - [ ] Much work - The project will take more than a couple of weeks and serious planning is required
-#
-# ### Categories
-#
-# - [ ] Mobile app
-# - [ ] IoT
-# - [ ] Web app
-# - [ ] Frontend/UI
-# - [ ] AI/ML
-# - [ ] APIs/Backend
-# - [ ] Voice Assistant
-# - [ ] Developer Tooling
-# - [ ] Extension/Plugin/Add-On
-# - [ ] Design/UX
-# - [ ] AR/VR
-# - [ ] Bots
-# - [ ] Security
-# - [ ] Blockchain
-# - [ ] Futuristic Tech/Something Unique
+        - label: Little work - A couple of days
+        - label: Medium work - A week or two
+        - label: Much work - The project will take more than a couple of weeks and serious planning is required
+  - type: checkboxes
+    id: categories
+    attributes:
+      label: Categories
+      options:
+        - label: Mobile app
+        - label: IoT
+        - label: Web app
+        - label: Frontend/UI
+        - label: AI/ML
+        - label: APIs/Backend
+        - label: Voice Assistant
+        - label: Developer Tooling
+        - label: Extension/Plugin/Add-On
+        - label: Design/UX
+        - label: AR/VR
+        - label: Bots
+        - label: Security
+        - label: Blockchain
+        - label: Futuristic Tech/Something Unique
