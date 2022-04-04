@@ -1,6 +1,6 @@
 name: Project idea template
 description: For creating a new project(as an issue) following the design
-title: "Project Idea"
+title: "[edit] Your Project name"
 body:
   - type: input
     attributes:
