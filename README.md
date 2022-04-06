@@ -33,4 +33,4 @@ You have decided wich project to work on ? Feel free, to drop a comment on the i
 
 ## How to work on project
 
-We wrote this [article]() to help you better approach the development of your opensource solution.
+We wrote this [article](https://blog.osscameroon.com/post/articles/how-to-build-an-oss-project) to help you better approach the development of your opensource solution.
